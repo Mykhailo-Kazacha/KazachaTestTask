@@ -1,0 +1,5 @@
+{ 
+	"Product":{"Name":"Item 1", "Price":"10.3"}, 
+	"Customer":{"Name":"Ivanov I.I", 
+	"Email":"test@test.com"}
+}

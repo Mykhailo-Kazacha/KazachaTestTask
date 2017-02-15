@@ -1,0 +1,98 @@
+D:\Lessons\ASP.NET MVC Fundamentals\006_Model\CodeFirstEntityFramework\CodeFirstEntityFramework\bin\CodeFirstEntityFramework.dll.config
+D:\Lessons\ASP.NET MVC Fundamentals\006_Model\CodeFirstEntityFramework\CodeFirstEntityFramework\bin\CodeFirstEntityFramework.dll
+D:\Lessons\ASP.NET MVC Fundamentals\006_Model\CodeFirstEntityFramework\CodeFirstEntityFramework\bin\CodeFirstEntityFramework.pdb
+D:\Lessons\ASP.NET MVC Fundamentals\006_Model\CodeFirstEntityFramework\CodeFirstEntityFramework\bin\Antlr3.Runtime.dll
+D:\Lessons\ASP.NET MVC Fundamentals\006_Model\CodeFirstEntityFramework\CodeFirstEntityFramework\bin\EntityFramework.dll
+D:\Lessons\ASP.NET MVC Fundamentals\006_Model\CodeFirstEntityFramework\CodeFirstEntityFramework\bin\Microsoft.Web.Infrastructure.dll
+D:\Lessons\ASP.NET MVC Fundamentals\006_Model\CodeFirstEntityFramework\CodeFirstEntityFramework\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+D:\Lessons\ASP.NET MVC Fundamentals\006_Model\CodeFirstEntityFramework\CodeFirstEntityFramework\bin\Newtonsoft.Json.dll
+D:\Lessons\ASP.NET MVC Fundamentals\006_Model\CodeFirstEntityFramework\CodeFirstEntityFramework\bin\System.Net.Http.Formatting.dll
+D:\Lessons\ASP.NET MVC Fundamentals\006_Model\CodeFirstEntityFramework\CodeFirstEntityFramework\bin\System.Web.Http.dll
+D:\Lessons\ASP.NET MVC Fundamentals\006_Model\CodeFirstEntityFramework\CodeFirstEntityFramework\bin\System.Web.Http.WebHost.dll
+D:\Lessons\ASP.NET MVC Fundamentals\006_Model\CodeFirstEntityFramework\CodeFirstEntityFramework\bin\System.Web.Mvc.dll
+D:\Lessons\ASP.NET MVC Fundamentals\006_Model\CodeFirstEntityFramework\CodeFirstEntityFramework\bin\System.Web.Optimization.dll
+D:\Lessons\ASP.NET MVC Fundamentals\006_Model\CodeFirstEntityFramework\CodeFirstEntityFramework\bin\System.Web.Providers.dll
+D:\Lessons\ASP.NET MVC Fundamentals\006_Model\CodeFirstEntityFramework\CodeFirstEntityFramework\bin\System.Web.Razor.dll
+D:\Lessons\ASP.NET MVC Fundamentals\006_Model\CodeFirstEntityFramework\CodeFirstEntityFramework\bin\System.Web.WebPages.Deployment.dll
+D:\Lessons\ASP.NET MVC Fundamentals\006_Model\CodeFirstEntityFramework\CodeFirstEntityFramework\bin\System.Web.WebPages.dll
+D:\Lessons\ASP.NET MVC Fundamentals\006_Model\CodeFirstEntityFramework\CodeFirstEntityFramework\bin\System.Web.WebPages.Razor.dll
+D:\Lessons\ASP.NET MVC Fundamentals\006_Model\CodeFirstEntityFramework\CodeFirstEntityFramework\bin\WebGrease.dll
+D:\Lessons\ASP.NET MVC Fundamentals\006_Model\CodeFirstEntityFramework\CodeFirstEntityFramework\bin\EntityFramework.xml
+D:\Lessons\ASP.NET MVC Fundamentals\006_Model\CodeFirstEntityFramework\CodeFirstEntityFramework\bin\Newtonsoft.Json.xml
+D:\Lessons\ASP.NET MVC Fundamentals\006_Model\CodeFirstEntityFramework\CodeFirstEntityFramework\bin\System.Net.Http.Formatting.xml
+D:\Lessons\ASP.NET MVC Fundamentals\006_Model\CodeFirstEntityFramework\CodeFirstEntityFramework\bin\System.Web.Http.xml
+D:\Lessons\ASP.NET MVC Fundamentals\006_Model\CodeFirstEntityFramework\CodeFirstEntityFramework\bin\System.Web.Http.WebHost.xml
+D:\Lessons\ASP.NET MVC Fundamentals\006_Model\CodeFirstEntityFramework\CodeFirstEntityFramework\bin\System.Web.Mvc.xml
+D:\Lessons\ASP.NET MVC Fundamentals\006_Model\CodeFirstEntityFramework\CodeFirstEntityFramework\bin\System.Web.Razor.xml
+D:\Lessons\ASP.NET MVC Fundamentals\006_Model\CodeFirstEntityFramework\CodeFirstEntityFramework\bin\System.Web.WebPages.xml
+D:\Lessons\ASP.NET MVC Fundamentals\006_Model\CodeFirstEntityFramework\CodeFirstEntityFramework\bin\System.Web.WebPages.Deployment.xml
+D:\Lessons\ASP.NET MVC Fundamentals\006_Model\CodeFirstEntityFramework\CodeFirstEntityFramework\bin\System.Web.WebPages.Razor.xml
+D:\Lessons\ASP.NET MVC Fundamentals\006_Model\CodeFirstEntityFramework\CodeFirstEntityFramework\obj\Debug\CodeFirstEntityFramework.csprojResolveAssemblyReference.cache
+D:\Lessons\ASP.NET MVC Fundamentals\006_Model\CodeFirstEntityFramework\CodeFirstEntityFramework\obj\Debug\CodeFirstEntityFramework.dll
+D:\Lessons\ASP.NET MVC Fundamentals\006_Model\CodeFirstEntityFramework\CodeFirstEntityFramework\obj\Debug\CodeFirstEntityFramework.pdb
+D:\Lessons\ASP.NET MVC Fundamentals\006_Model\004_CodeFirstEntityFramework\CodeFirstEntityFramework\bin\CodeFirstEntityFramework.dll.config
+D:\Lessons\ASP.NET MVC Fundamentals\006_Model\004_CodeFirstEntityFramework\CodeFirstEntityFramework\bin\CodeFirstEntityFramework.dll
+D:\Lessons\ASP.NET MVC Fundamentals\006_Model\004_CodeFirstEntityFramework\CodeFirstEntityFramework\bin\CodeFirstEntityFramework.pdb
+D:\Lessons\ASP.NET MVC Fundamentals\006_Model\004_CodeFirstEntityFramework\CodeFirstEntityFramework\bin\Antlr3.Runtime.dll
+D:\Lessons\ASP.NET MVC Fundamentals\006_Model\004_CodeFirstEntityFramework\CodeFirstEntityFramework\bin\EntityFramework.dll
+D:\Lessons\ASP.NET MVC Fundamentals\006_Model\004_CodeFirstEntityFramework\CodeFirstEntityFramework\bin\Microsoft.Web.Infrastructure.dll
+D:\Lessons\ASP.NET MVC Fundamentals\006_Model\004_CodeFirstEntityFramework\CodeFirstEntityFramework\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+D:\Lessons\ASP.NET MVC Fundamentals\006_Model\004_CodeFirstEntityFramework\CodeFirstEntityFramework\bin\Newtonsoft.Json.dll
+D:\Lessons\ASP.NET MVC Fundamentals\006_Model\004_CodeFirstEntityFramework\CodeFirstEntityFramework\bin\System.Net.Http.Formatting.dll
+D:\Lessons\ASP.NET MVC Fundamentals\006_Model\004_CodeFirstEntityFramework\CodeFirstEntityFramework\bin\System.Web.Http.dll
+D:\Lessons\ASP.NET MVC Fundamentals\006_Model\004_CodeFirstEntityFramework\CodeFirstEntityFramework\bin\System.Web.Http.WebHost.dll
+D:\Lessons\ASP.NET MVC Fundamentals\006_Model\004_CodeFirstEntityFramework\CodeFirstEntityFramework\bin\System.Web.Mvc.dll
+D:\Lessons\ASP.NET MVC Fundamentals\006_Model\004_CodeFirstEntityFramework\CodeFirstEntityFramework\bin\System.Web.Optimization.dll
+D:\Lessons\ASP.NET MVC Fundamentals\006_Model\004_CodeFirstEntityFramework\CodeFirstEntityFramework\bin\System.Web.Providers.dll
+D:\Lessons\ASP.NET MVC Fundamentals\006_Model\004_CodeFirstEntityFramework\CodeFirstEntityFramework\bin\System.Web.Razor.dll
+D:\Lessons\ASP.NET MVC Fundamentals\006_Model\004_CodeFirstEntityFramework\CodeFirstEntityFramework\bin\System.Web.WebPages.Deployment.dll
+D:\Lessons\ASP.NET MVC Fundamentals\006_Model\004_CodeFirstEntityFramework\CodeFirstEntityFramework\bin\System.Web.WebPages.dll
+D:\Lessons\ASP.NET MVC Fundamentals\006_Model\004_CodeFirstEntityFramework\CodeFirstEntityFramework\bin\System.Web.WebPages.Razor.dll
+D:\Lessons\ASP.NET MVC Fundamentals\006_Model\004_CodeFirstEntityFramework\CodeFirstEntityFramework\bin\WebGrease.dll
+D:\Lessons\ASP.NET MVC Fundamentals\006_Model\004_CodeFirstEntityFramework\CodeFirstEntityFramework\bin\EntityFramework.xml
+D:\Lessons\ASP.NET MVC Fundamentals\006_Model\004_CodeFirstEntityFramework\CodeFirstEntityFramework\bin\Newtonsoft.Json.xml
+D:\Lessons\ASP.NET MVC Fundamentals\006_Model\004_CodeFirstEntityFramework\CodeFirstEntityFramework\bin\System.Net.Http.Formatting.xml
+D:\Lessons\ASP.NET MVC Fundamentals\006_Model\004_CodeFirstEntityFramework\CodeFirstEntityFramework\bin\System.Web.Http.xml
+D:\Lessons\ASP.NET MVC Fundamentals\006_Model\004_CodeFirstEntityFramework\CodeFirstEntityFramework\bin\System.Web.Http.WebHost.xml
+D:\Lessons\ASP.NET MVC Fundamentals\006_Model\004_CodeFirstEntityFramework\CodeFirstEntityFramework\bin\System.Web.Mvc.xml
+D:\Lessons\ASP.NET MVC Fundamentals\006_Model\004_CodeFirstEntityFramework\CodeFirstEntityFramework\bin\System.Web.Razor.xml
+D:\Lessons\ASP.NET MVC Fundamentals\006_Model\004_CodeFirstEntityFramework\CodeFirstEntityFramework\bin\System.Web.WebPages.xml
+D:\Lessons\ASP.NET MVC Fundamentals\006_Model\004_CodeFirstEntityFramework\CodeFirstEntityFramework\bin\System.Web.WebPages.Deployment.xml
+D:\Lessons\ASP.NET MVC Fundamentals\006_Model\004_CodeFirstEntityFramework\CodeFirstEntityFramework\bin\System.Web.WebPages.Razor.xml
+D:\Lessons\ASP.NET MVC Fundamentals\006_Model\004_CodeFirstEntityFramework\CodeFirstEntityFramework\obj\Debug\CodeFirstEntityFramework.csprojResolveAssemblyReference.cache
+D:\Lessons\ASP.NET MVC Fundamentals\006_Model\004_CodeFirstEntityFramework\CodeFirstEntityFramework\obj\Debug\CodeFirstEntityFramework.dll
+D:\Lessons\ASP.NET MVC Fundamentals\006_Model\004_CodeFirstEntityFramework\CodeFirstEntityFramework\obj\Debug\CodeFirstEntityFramework.pdb
+C:\Users\Ivan\Desktop\004_CodeFirstEntityFramework\CodeFirstEntityFramework\bin\CodeFirstEntityFramework.dll.config
+C:\Users\Ivan\Desktop\004_CodeFirstEntityFramework\CodeFirstEntityFramework\bin\CodeFirstEntityFramework.dll
+C:\Users\Ivan\Desktop\004_CodeFirstEntityFramework\CodeFirstEntityFramework\bin\CodeFirstEntityFramework.pdb
+C:\Users\Ivan\Desktop\004_CodeFirstEntityFramework\CodeFirstEntityFramework\bin\Antlr3.Runtime.dll
+C:\Users\Ivan\Desktop\004_CodeFirstEntityFramework\CodeFirstEntityFramework\bin\EntityFramework.dll
+C:\Users\Ivan\Desktop\004_CodeFirstEntityFramework\CodeFirstEntityFramework\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Ivan\Desktop\004_CodeFirstEntityFramework\CodeFirstEntityFramework\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+C:\Users\Ivan\Desktop\004_CodeFirstEntityFramework\CodeFirstEntityFramework\bin\Newtonsoft.Json.dll
+C:\Users\Ivan\Desktop\004_CodeFirstEntityFramework\CodeFirstEntityFramework\bin\System.Net.Http.Formatting.dll
+C:\Users\Ivan\Desktop\004_CodeFirstEntityFramework\CodeFirstEntityFramework\bin\System.Web.Http.dll
+C:\Users\Ivan\Desktop\004_CodeFirstEntityFramework\CodeFirstEntityFramework\bin\System.Web.Http.WebHost.dll
+C:\Users\Ivan\Desktop\004_CodeFirstEntityFramework\CodeFirstEntityFramework\bin\System.Web.Mvc.dll
+C:\Users\Ivan\Desktop\004_CodeFirstEntityFramework\CodeFirstEntityFramework\bin\System.Web.Optimization.dll
+C:\Users\Ivan\Desktop\004_CodeFirstEntityFramework\CodeFirstEntityFramework\bin\System.Web.Providers.dll
+C:\Users\Ivan\Desktop\004_CodeFirstEntityFramework\CodeFirstEntityFramework\bin\System.Web.Razor.dll
+C:\Users\Ivan\Desktop\004_CodeFirstEntityFramework\CodeFirstEntityFramework\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Ivan\Desktop\004_CodeFirstEntityFramework\CodeFirstEntityFramework\bin\System.Web.WebPages.dll
+C:\Users\Ivan\Desktop\004_CodeFirstEntityFramework\CodeFirstEntityFramework\bin\System.Web.WebPages.Razor.dll
+C:\Users\Ivan\Desktop\004_CodeFirstEntityFramework\CodeFirstEntityFramework\bin\WebGrease.dll
+C:\Users\Ivan\Desktop\004_CodeFirstEntityFramework\CodeFirstEntityFramework\bin\EntityFramework.xml
+C:\Users\Ivan\Desktop\004_CodeFirstEntityFramework\CodeFirstEntityFramework\bin\Newtonsoft.Json.xml
+C:\Users\Ivan\Desktop\004_CodeFirstEntityFramework\CodeFirstEntityFramework\bin\System.Net.Http.Formatting.xml
+C:\Users\Ivan\Desktop\004_CodeFirstEntityFramework\CodeFirstEntityFramework\bin\System.Web.Http.xml
+C:\Users\Ivan\Desktop\004_CodeFirstEntityFramework\CodeFirstEntityFramework\bin\System.Web.Http.WebHost.xml
+C:\Users\Ivan\Desktop\004_CodeFirstEntityFramework\CodeFirstEntityFramework\bin\System.Web.Mvc.xml
+C:\Users\Ivan\Desktop\004_CodeFirstEntityFramework\CodeFirstEntityFramework\bin\System.Web.Razor.xml
+C:\Users\Ivan\Desktop\004_CodeFirstEntityFramework\CodeFirstEntityFramework\bin\System.Web.WebPages.xml
+C:\Users\Ivan\Desktop\004_CodeFirstEntityFramework\CodeFirstEntityFramework\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Ivan\Desktop\004_CodeFirstEntityFramework\CodeFirstEntityFramework\bin\System.Web.WebPages.Razor.xml
+C:\Users\Ivan\Desktop\004_CodeFirstEntityFramework\CodeFirstEntityFramework\obj\Debug\CodeFirstEntityFramework.csprojResolveAssemblyReference.cache
+C:\Users\Ivan\Desktop\004_CodeFirstEntityFramework\CodeFirstEntityFramework\obj\Debug\CodeFirstEntityFramework.dll
+C:\Users\Ivan\Desktop\004_CodeFirstEntityFramework\CodeFirstEntityFramework\obj\Debug\CodeFirstEntityFramework.pdb
+C:\Users\Ivan\Desktop\004_CodeFirstEntityFramework\CodeFirstEntityFramework\bin\PagedList.dll
+C:\Users\Ivan\Desktop\004_CodeFirstEntityFramework\CodeFirstEntityFramework\bin\PagedList.xml

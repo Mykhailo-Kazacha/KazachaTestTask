@@ -1,0 +1,10 @@
+<Order>
+	<Product>
+		<Name>Item 1</Name>
+		<Price>10.3</Price>
+	</Product>
+	<Customer>
+   		<Name>Ivanov I.I</Name>
+   		<Email>test@test.com</Email>
+	</Customer>
+</Order>

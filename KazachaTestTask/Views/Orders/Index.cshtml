@@ -1,0 +1,49 @@
+﻿@model IEnumerable<KazachaTestTask.Models.Order>
+
+@{
+    ViewBag.Title = "Index";
+    var options = new AjaxOptions()
+    {
+        UpdateTargetId = "tabledata"
+    };
+}
+
+@using (Ajax.BeginForm("Search",options))
+{
+    <p>
+        Find by name: @Html.TextBox("SearchString")
+        <input type="submit" value="Search" />
+    </p>
+}
+
+
+<table cellpadding="4">
+    <thead>
+        <tr>
+            <th>
+                @Ajax.ActionLink("Name", "OrdersData", "Orders", new { sortParam = "Name" }, options,null)
+            </th>
+            <th>
+                @Ajax.ActionLink("Product", "OrdersData", "Orders", new { sortParam = "Product" }, options, null)
+            </th>
+            <th>
+                @Ajax.ActionLink("Date", "OrdersData", "Orders", new { sortParam = "Date" }, options, null)
+            </th>
+        </tr>
+    </thead>
+    <tbody id="tabledata">
+        @Html.Action("OrdersData")
+    </tbody>
+</table>
+
+@**@@*Форма загрузки файла*@
+@using (Html.BeginForm("Upload", "Orders", FormMethod.Post, new { enctype = "multipart/form-data" }))
+{
+    <input type="file" name="upload" /><br>
+    <input type="submit" value="Загрузить" />
+}
+
+@section scripts
+{
+    <script src="~/Scripts/jquery.unobtrusive-ajax.min.js"></script>
+}
